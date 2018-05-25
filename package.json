@@ -1,0 +1,24 @@
+{
+  "name": "estamdtohtml",
+  "version": "1.0.0",
+  "description": "converte markdown em html padronizado",
+  "main": "estaMDtoHTML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node estaMDtoHTML.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcf3rr31r4/estaMDtoHTML.git"
+  },
+  "author": "Miguel Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcf3rr31r4/estaMDtoHTML/issues"
+  },
+  "homepage": "https://github.com/mcf3rr31r4/estaMDtoHTML#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "showdown": "^1.8.6"
+  }
+}
